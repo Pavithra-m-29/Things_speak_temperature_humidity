@@ -40,9 +40,9 @@ This IoT-based Weather Monitoring System uses an ESP8266 NodeMCU and DHT11 senso
 ## 📷 Project Demonstration
 
 The ESP8266 reads temperature and humidity values from the DHT11 sensor and uploads them to ThingSpeak. The cloud platform displays the collected data as real-time charts for continuous monitoring.
-blob:https://web.whatsapp.com/2b121257-5213-4dc4-8fc9-a2f0cb6cb21c
-## 📊 Output
+<img width="1600" height="1200" alt="WhatsApp Image 2026-07-02 at 1 16 23 PM (2)" src="https://github.com/user-attachments/assets/1c61c49a-3999-489b-af2e-0f295998e2f3" />
 
+## 📊 Output
 - Temperature Graph
 - Humidity Graph
 - Cloud Data Storage
